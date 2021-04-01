@@ -1,0 +1,8 @@
+{
+    "org": "TECommons",
+    "repo": "TEC-Hatch-Vote",
+    "tokenAddress": "0xc4fbE68522ba81a28879763C3eE33e08b13c499E",
+    "labels": ["Vote"],
+    "votingMethod": "QUADRATIC",
+    "chainId": 100
+}
